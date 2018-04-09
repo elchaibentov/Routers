@@ -1,7 +1,7 @@
 
-elchai bentov
-make
-exercise 3.
+elchai bentov <br />
+make <br />
+exercise 3.<br />
 --------------------------------------------------------------------------------------------------------------------------------
 these program simulate a router, i.e., if there are n routers, you should run it n times in n different terminals.
 this program  will implement the bellman ford algorithm for routing.
