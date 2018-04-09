@@ -55,3 +55,8 @@ how to compile and run:<br />
 -now go to where the files are.<br />
 -enter make.<br />
 -run the program with: './ex3<br />
+==================================
+An example  how to compile and run a text file here.
+1.open 3 terminal
+2.enter make.
+3.first terminal - run "./run txt Router1 15" , second-./run txt Router2 15 ,  third -"./run txt Router3 15"
